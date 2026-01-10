@@ -38,7 +38,7 @@ Frontend: React, Axios, Tailwind CSS
 
 ⚙️ Setup
 
-git clone https://github.com/shairaaktar/employee-management-system.git
+git clone https://github.com/shairaaktar/auth-session-security-system.git
 cd Auth-session-security-system
 npm install
 npm run dev
