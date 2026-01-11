@@ -2,7 +2,7 @@
 
 A backend-focused MERN project demonstrating  secure authentication, session management, and admin security controls.
 
-🚀 Highlights
+## 🧠 System Highlights
 
 JWT Authentication (Access & Refresh Tokens)
 
@@ -27,7 +27,7 @@ Centralized audit logs for security actions
 CSRF protection
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Backend: Node.js, Express.js, MongoDB, Mongoose
 
@@ -36,10 +36,18 @@ Security: JWT, CSRF, RBAC
 Frontend: React, Axios, Tailwind CSS
 
 
-⚙️ Setup
+## ⚙️ Local Setup
 
-git clone https://github.com/shairaaktar/auth-session-security-system.git
-cd Auth-session-security-system
+### Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
+
+### Frontend
+```bash
+cd frontend
 npm install
 npm run dev
 
